@@ -41,7 +41,7 @@
     "@rollup/plugin-json": "^6.0.0",
     "@rollup/plugin-node-resolve": "^11.0.1",
     "@types/comment-json": "^1.1.1",
-    "@types/cross-spawn": "6.0.0",
+    "@types/cross-spawn": "6.0.2",
     "@types/diff": "^5.0.0",
     "@types/lodash": "^4.14.136",
     "@types/micromatch": "^4.0.1",

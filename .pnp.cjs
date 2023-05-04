@@ -10151,10 +10151,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/cross-spawn", [\
-      ["npm:6.0.0", {\
-        "packageLocation": "./.yarn/cache/@types-cross-spawn-npm-6.0.0-daaecbda8f-e15f2a4fb1.zip/node_modules/@types/cross-spawn/",\
+      ["npm:6.0.2", {\
+        "packageLocation": "./.yarn/cache/@types-cross-spawn-npm-6.0.2-f5d63b3325-8f82f25595.zip/node_modules/@types/cross-spawn/",\
         "packageDependencies": [\
-          ["@types/cross-spawn", "npm:6.0.0"],\
+          ["@types/cross-spawn", "npm:6.0.2"],\
           ["@types/node", "npm:18.11.11"]\
         ],\
         "linkType": "HARD"\
@@ -13019,7 +13019,7 @@ const RAW_RUNTIME_STATE =
           ["@rollup/plugin-json", "virtual:712d04b0098634bdb13868ff8f85b327022bd7d3880873ada8c0ae56847ed36cf9da1fd74a88519380129cec528fe2bd2201426bc28ac9d4a8cc6734ff25c538#npm:6.0.0"],\
           ["@rollup/plugin-node-resolve", "virtual:712d04b0098634bdb13868ff8f85b327022bd7d3880873ada8c0ae56847ed36cf9da1fd74a88519380129cec528fe2bd2201426bc28ac9d4a8cc6734ff25c538#npm:11.2.1"],\
           ["@types/comment-json", "npm:1.1.1"],\
-          ["@types/cross-spawn", "npm:6.0.0"],\
+          ["@types/cross-spawn", "npm:6.0.2"],\
           ["@types/diff", "npm:5.0.2"],\
           ["@types/lodash", "npm:4.14.172"],\
           ["@types/micromatch", "npm:4.0.1"],\
@@ -22724,7 +22724,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./packages/yarnpkg-shell/",\
         "packageDependencies": [\
           ["@yarnpkg/shell", "workspace:packages/yarnpkg-shell"],\
-          ["@types/cross-spawn", "npm:6.0.0"],\
+          ["@types/cross-spawn", "npm:6.0.2"],\
           ["@types/micromatch", "npm:4.0.1"],\
           ["@yarnpkg/fslib", "workspace:packages/yarnpkg-fslib"],\
           ["@yarnpkg/monorepo", "workspace:."],\

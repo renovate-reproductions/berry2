@@ -21,7 +21,7 @@
     "tslib": "^2.4.0"
   },
   "devDependencies": {
-    "@types/cross-spawn": "6.0.0",
+    "@types/cross-spawn": "6.0.2",
     "@types/micromatch": "^4.0.1",
     "@yarnpkg/monorepo": "workspace:^",
     "strip-ansi": "^6.0.0"
