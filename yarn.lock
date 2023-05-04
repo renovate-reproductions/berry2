@@ -5787,12 +5787,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash-es@npm:4.17.4":
-  version: 4.17.4
-  resolution: "@types/lodash-es@npm:4.17.4"
+"@types/lodash-es@npm:4.17.7":
+  version: 4.17.7
+  resolution: "@types/lodash-es@npm:4.17.7"
   dependencies:
     "@types/lodash": "npm:*"
-  checksum: dba4cef2ea3bd018c6645dcb905efc96750c901d290afc295d65897f763090650361dc62e6baaab99c3654ce97f6f1c5cbef862f4e86b6a0676bb424d26e75a6
+  checksum: 4dfde517db4cfc7b25b5a20a0851244c0ca4aebbdae272eebe77a3f3388eae6a4f47d7850cca712e0256c033a30bfebd366948b4286743e20e2c862c7c3830ad
   languageName: node
   linkType: hard
 
@@ -7406,7 +7406,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@yarnpkg/plugin-compat@workspace:packages/plugin-compat"
   dependencies:
-    "@types/lodash-es": "npm:4.17.4"
+    "@types/lodash-es": "npm:4.17.7"
     "@types/resolve": "npm:^1.17.1"
     "@yarnpkg/cli": "workspace:^"
     "@yarnpkg/core": "workspace:^"
